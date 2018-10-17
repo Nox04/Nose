@@ -1,0 +1,9 @@
+[postgresql]
+host=localhost
+database=nox
+user=postgres
+password=678Tppydk732dq4*
+
+[facebook]
+user=orantine@gmail.com
+password=8pxj834kf3
